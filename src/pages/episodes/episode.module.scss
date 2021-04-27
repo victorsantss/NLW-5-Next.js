@@ -24,8 +24,8 @@
       &:first-child {
         left: 0;
         top: 50%;
-        background: var(--purple-500);
         transform: translate(-50%, -50%);
+        background: var(--purple-500);
       }
 
       &:last-child {
@@ -34,8 +34,9 @@
         background: var(--green-500);
         transform: translate(50%, -50%);
       }
+
       &:hover {
-        filter: brightness(0.9);
+        filter: brightness(0.9)
       }
     }
   }
@@ -59,7 +60,7 @@
         position: relative;
 
         &::before {
-          content: "";
+          content: '';
           width: 4px;
           height: 4px;
           border-radius: 2px;
@@ -67,19 +68,19 @@
           position: absolute;
           left: 0;
           top: 50%;
-          transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%)
         }
       }
     }
   }
 
   .description {
-      margin-top: 2rem;
-      line-height: 1.675rem;
-      color: var(--gray-800);
+    margin-top: 2rem;
+    line-height: 1.675rem;
+    color: var(--gray-800);
 
-      p {
-          margin: 1.5rem 0;
-      }
+    p {
+      margin: 1.5rem 0;
+    }
   }
 }
