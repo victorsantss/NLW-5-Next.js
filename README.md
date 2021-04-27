@@ -52,11 +52,6 @@ $ yarn server
 
 [Podcastr](https://podcastr-five.vercel.app/)
 
-<br />
+<hr />
 
-This project was made with 💙 by [Victor Santos](https://github.com/victorsantss)
-
-Contact me if you want: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santss/)](https://www.linkedin.com/in/victor-santss/)
-[![Gmail Badge](https://img.shields.io/badge/-victords895@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victords895@gmail.com)](mailto:victords895@gmail.com)
+<p align="center">This project was made with 💙 by Victor Santos</p>
